@@ -1,4 +1,4 @@
-## Hi there 👋
+## The Data Firewall for AI and Humans
 
 <!--
 
